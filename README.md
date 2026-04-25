@@ -24,7 +24,7 @@ AWS Services:
 •	Auto Scaling Group 
 •	Application Load Balancer (ALB)
 
-Data Layer
+ 3. Data Layer
 •	Stores application data 
 AWS Services:
 •	RDS (Relational Database) 
