@@ -1,4 +1,5 @@
-<img width="121" height="551" alt="3 tier drawio" src="https://github.com/user-attachments/assets/8bd8407c-1433-49ea-afa8-759f81fda1c0" />
+<img width="441" height="651" alt="3tier drawio" src="https://github.com/user-attachments/assets/24ea9615-12bd-4b85-b8cb-c2063d00f886" />
+
 Three-tier architecture is a design pattern that separates an application into three layers:
 1.	Presentation Layer (Frontend)
    
