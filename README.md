@@ -1,31 +1,49 @@
 <img width="121" height="551" alt="3 tier drawio" src="https://github.com/user-attachments/assets/8bd8407c-1433-49ea-afa8-759f81fda1c0" />
 Three-tier architecture is a design pattern that separates an application into three layers:
-1.	Presentation Layer (Frontend) 
-2.	Application Layer (Backend) 
-3.	Data Layer (Database) 
+1.	Presentation Layer (Frontend)
+   
+2.	Application Layer (Backend)
+
+3. 	Data Layer (Database) 
 This separation improves:
-•	Scalability 
-•	Security 
+•	Scalability
+ 
+•	Security
+
 •	Maintainability
 
 AWS-Based Three-Tier Architecture
- 1. Presentation Layer
-•	Handles user interface 
-•	Accessible via browser 
+
+1. Presentation Layer
+
+•	Handles user interface
+
+•	Accessible via browser
+
 AWS Services:
+
 •	Amazon S3 (Static website hosting) 
+
 •	Amazon CloudFront (CDN) 
+ 
 •	Route 53 (DNS)
 
 2. Application Layer
+
 •	Contains business logic 
+
 •	Processes requests from frontend 
+
 AWS Services:
+
 •	EC2 (Virtual servers) 
+
 •	Auto Scaling Group 
+
 •	Application Load Balancer (ALB)
 
  3. Data Layer
+
 •	Stores application data 
 AWS Services:
 •	RDS (Relational Database) 
