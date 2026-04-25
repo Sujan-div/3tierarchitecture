@@ -6,7 +6,9 @@ Three-tier architecture is a design pattern that separates an application into t
 2.	Application Layer (Backend)
 
 3. 	Data Layer (Database) 
+
 This separation improves:
+
 •	Scalability
  
 •	Security
