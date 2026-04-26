@@ -1,11 +1,12 @@
 <img width="441" height="651" alt="3tier drawio" src="https://github.com/user-attachments/assets/24ea9615-12bd-4b85-b8cb-c2063d00f886" />
 
-Three-tier architecture is a design pattern that separates an application into three layers:
-1.	Presentation Layer (Frontend)
-   
-2.	Application Layer (Backend)
 
-3. 	Data Layer (Database) 
+# Three-tier architecture is a design pattern that separates an application into three layers:
+#1.	Presentation Layer (Frontend)
+   
+#2.	Application Layer (Backend)
+
+#3. 	Data Layer (Database) 
 
 This separation improves:
 
