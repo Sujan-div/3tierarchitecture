@@ -79,7 +79,7 @@ The backend communicates with the database to store and retrieve data. Direct ac
 
 ## 📊 Architecture Diagram
 
-![Three Tier Architecture](architecture.png)
+![Three Tier Architecture](architecture.png)<img width="1047" height="671" alt="pYjCx72bW-ts3s5lR_htGOkQGcSTla_BmINekf5hH-xTr4JsWFFjyO8VaXGjDEKmUbyM2qcIBqZbRdYIkcx7pIyoVeWb6qkZeQ4OhtowcNel0JmfuMAXNY2dIsNqLwvIRQOlndr0im4o0lveJp_23fFoLqxxEiaIg36Aat41F9UWUczYUSrfoEd0SJKdMY83" src="https://github.com/user-attachments/assets/9d968ad0-5a37-488c-ba2c-5c20f2edeb2e" />
 
 ---
 
@@ -124,6 +124,6 @@ The backend communicates with the database to store and retrieve data. Direct ac
 
 Three-tier architecture is a fundamental design pattern in modern cloud-based applications. By separating the frontend, backend, and database layers, developers can build systems that are scalable, secure, and easier to manage.
 
-AWS provides a wide range of services that make implementing this architecture efficient and reliable in real-world scenarios.<img width="1047" height="671" alt="pYjCx72bW-ts3s5lR_htGOkQGcSTla_BmINekf5hH-xTr4JsWFFjyO8VaXGjDEKmUbyM2qcIBqZbRdYIkcx7pIyoVeWb6qkZeQ4OhtowcNel0JmfuMAXNY2dIsNqLwvIRQOlndr0im4o0lveJp_23fFoLqxxEiaIg36Aat41F9UWUczYUSrfoEd0SJKdMY83" src="https://github.com/user-attachments/assets/9d968ad0-5a37-488c-ba2c-5c20f2edeb2e" />
+AWS provides a wide range of services that make implementing this architecture efficient and reliable in real-world scenarios.
 
 
